@@ -9,6 +9,7 @@ Target audience for this system are the managers or  people who want to open an 
 
 ### Data Collection:
 To open a shop, following things are required –
+
 ▫	Geographical coordinates of the area
 
 ▫	The population of the neighbourhood
