@@ -5,7 +5,7 @@
 To develop a recommender system that will help  the restaurant manager to find the best suitable  place to open an Coffee Shop!
 
 ### Target Audience
-Target audience for this system are the managers or  people who want to open an Coffee Shop in the  specific city or area. These people expect the place  which is most popular and well known in the city.
+Target audience for this system are the managers or  people who want to open an Coffee Shop in the  specific city or area. These people expect the place  which is most popular and well known in the city. 
 
 ### Data Collection:
 To open a shop, following things are required –
