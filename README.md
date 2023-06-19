@@ -26,6 +26,23 @@ To gather the necessary data for this project, several sources were utilized, in
 
 The data collection process involved gathering information from diverse sources, including websites such as Wikipedia, Foursquare API, census report websites, and CSV data. By leveraging these data sources, the recommender system can provide comprehensive insights to assist coffee shop managers in making informed decisions regarding the optimal location for their business.
 
+### Technologies Used
+
+This project utilizes various technologies and tools to develop a recommender system for identifying the best location to open a coffee shop. The following technologies were employed during different stages of the project:
+
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Scikit-learn
+- Folium
+- Geopy
+- Foursquare API
+- Matplotlib
+- Seaborn
+- HTML/CSS
+
+
 For more detailed information about the project, including methodologies, data analysis techniques, and model development, please refer to the project documentation and code in the repository.
 
 The above information was obtained from various websites such
