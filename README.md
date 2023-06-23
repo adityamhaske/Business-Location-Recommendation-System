@@ -42,7 +42,6 @@ This project utilizes various technologies and tools to develop a recommender sy
 - Seaborn
 - HTML/CSS
 
-
 For more detailed information about the project, including methodologies, data analysis techniques, and model development, please refer to the project documentation and code in the repository.
 
 The above information was obtained from various websites such
